@@ -1,0 +1,5 @@
+- pip install Flask-WTF
+- pip install Flask-Migrate
+- pip install psycopg2
+- pip install email-validator -- Verification of emails inside of forms
+- pip install python-dotenv
